@@ -22,7 +22,58 @@ CAPTION
 
 Instructions!!
 
+
+## Usage
+
+Getting started with **JavaTurn** is simple. Follow these steps to ensure your coffee runs are fair and balanced:
+
+1. **Launch JavaTurn**: Open the application on your preferred device.
+2. **Enter Participants**: Input the names of all coworkers participating in the coffee run. 
+3. **Log Purchases**: After each coffee run, enter the type of coffee each person got and the cost associated with each beverage.
+4. **Calculate**: Let **Coffee Buddy** do the math. It will analyze the data, taking into account the varying costs, and determine who should pay next to keep the balance fair over time.
+5. **Result**: The application displays who’s turn it is to pay for the next coffee run, ensuring everyone contributes equally.
+
+For a detailed walkthrough, refer to the following command example:
+
+```bash
+# Example command to start Coffee Buddy and enter data
+coffeebuddy start
+coffeebuddy add "Bob" "Cappuccino" 3.50
+coffeebuddy add "Jeremy" "Black Coffee" 2.00
+# Continue for all participants
+coffeebuddy calculate
+```
+
+**Note:** Commands and steps may vary depending on the actual implementation of your software.
+
+## Features
+
+**Coffee Buddy** is designed with simplicity and fairness in mind. Here are its key features:
+
+- **Equitable Expense Tracking**: Tracks coffee expenses over time to ensure that payment responsibilities are distributed fairly among participants.
+- **Customizable Participant List**: Easily add or remove coworkers from the coffee run group.
+- **Versatile Coffee and Cost Entry**: Supports a wide range of coffee beverages and allows for the entry of specific costs associated with each.
+- **Smart Calculation Algorithm**: Utilizes a smart algorithm to fairly determine who should pay next, considering the varying costs of each person's coffee choice.
+- **History Log**: Maintains a history of all coffee runs, including who paid and how much, to provide transparency and accountability.
+- **User-Friendly Interface**: Offers a straightforward command-line interface for quick data entry and calculation, making it accessible for both technical and non-technical users.
+
+Leverage **Coffee Buddy** to make your coffee runs smoother and more enjoyable, without the hassle of deciding who pays next!
+
+---
+
+Feel free to adjust the content based on the actual capabilities and usage of your application.
+
+
+
+
+
+
+
+
 ```bash
 # Example command
 git clone https://yourprojectlink.git
 cd yourproject
+
+# Install tkinter a python library!
+pip install tkinter
