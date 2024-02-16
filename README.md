@@ -2,15 +2,15 @@
 
 ## Introduction
 
-In the Bertram Labs, a unique tradition takes place in its team: the daily coffee run. Every day, post-lunch, Bob, Jeremy, and their five coworkers make their way to their favorite coffee shop, each with their distinct coffee preferences. From Bob's classic cappuccino to Jeremy's robust black coffee, diversity in taste is abundant. However, this ritual comes with its own challenge—deciding who pays for the coffee each day, especially considering the varied costs of their preferred beverages.
+At Bertram Labs, Bob, Jeremy, and five colleagues have a daily coffee run after lunch. They all have different coffee preferences, from Bob's cappuccino to Jeremy's black coffee. But deciding who pays each day is tough because their drinks cost different amounts.
 
-Enter JavaTurn: a simple yet ingenious software solution designed to ensure fairness and ease in this daily decision-making process. By accounting for the different prices of each drink, JavaTurn takes on the task of determining whose turn it is to pay, ensuring everyone contributes equitably over time. Join us in exploring how Coffee Buddy brings joy and harmony to the coffee rituals of Bertram Labs, making every coffee run as smooth as the espresso it buys.
+That's where JavaTurn comes in. It's a simple software that decides whose turn it is to pay, making sure everyone chips in fairly over time. With JavaTurn, their coffee runs are smooth and hassle-free, keeping everyone happy at Bertram Labs.
 
 ![Project Image](images/Demo1.png)
 *Adding Coworker*
-(images/Demo2.png)
+![Project Image](images/Demo2.png)
 *Displays all information*
-(images/Demo3.png)
+![Project Image](images/Demo3.png)
 *Menu displayed as well*
 
 ## Table of Contents
