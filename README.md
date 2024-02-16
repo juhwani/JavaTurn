@@ -16,6 +16,7 @@ That's where JavaTurn comes in. It's a simple software that decides whose turn i
 ## Table of Contents
 
 - [Installation](#installation)
+- [Assumptions](#assumptions)
 - [Usage](#usage)
 - [Features](#features)
 - [Credits](#credits)
@@ -37,6 +38,19 @@ JavaTurn is built with Python and Tkinter, ensuring a smooth setup on most syste
      ```bash
      pip install tk
      ```
+## Assumption
+
+### Assumptions
+
+When developing JavaTurn, I made several assumptions to base the app to the needs of coffee enthusiasts like those at Bertram Labs:
+
+1. **Participation**: All coworkers participate in coffee runs and are willing to alternate paying.
+2. **Price Variability**: Coffee prices vary, creating the need for a fair turn-taking system.
+3. **Equity Over Time**: Fairness is measured over multiple runs, considering the cumulative cost paid by each participant.
+4. **Input**: Users are expected to input their coffee selections and prices.
+5. **Consistent Pricing**: Prices for each coffee type are stable over time.
+6. **Group Trust**: Designed for small to medium groups, assuming transparency and trust among users.
+
 
 ## Usage
 
