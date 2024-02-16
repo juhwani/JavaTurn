@@ -40,8 +40,6 @@ JavaTurn is built with Python and Tkinter, ensuring a smooth setup on most syste
      ```
 ## Assumption
 
-### Assumptions
-
 When developing JavaTurn, I made several assumptions to base the app to the needs of coffee enthusiasts like those at Bertram Labs:
 
 1. **Participation**: All coworkers participate in coffee runs and are willing to alternate paying.
@@ -53,6 +51,10 @@ When developing JavaTurn, I made several assumptions to base the app to the need
 
 
 ## Usage
+
+### Disclaimer
+
+**Mac Users**: Please note that running JavaTurn on macOS might encounter issues with button responsiveness. If you experience difficulty clicking buttons, try dragging the application window slightly. This action can help refresh the window's state and improve button functionality. We're working to address this in future updates and appreciate your understanding.
 
 Follow these steps to make your coffee runs smooth and fair:
 
